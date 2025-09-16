@@ -1,4 +1,5 @@
 Sistema de Gestão de Tarefas Inteligente (To-Do List Avançada) com CS50x - Harvard
+
 Este projeto consiste no desenvolvimento de uma aplicação web robusta para gestão de 
 tarefas, que permitirá aos utilizadores criar, organizar, priorizar e acompanhar as suas 
 atividades diárias de forma eficiente. O problema que resolve é a dificuldade em manter 
